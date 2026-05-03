@@ -1,5 +1,9 @@
 ## GIT FOR MAINTAINERS
-# Branching 
+
+# Branching
+
 git branch
-git checkout 
+git checkout
 git checkout -b
+git status
+git commit
